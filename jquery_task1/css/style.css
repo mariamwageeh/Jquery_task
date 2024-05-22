@@ -1,0 +1,14 @@
+h2{
+    display: none;
+}
+.div{
+    display: none;
+}
+.container-fluid{
+    width: 1px;
+    height: 5px;
+    background-color: gray;
+}
+img{
+    height: 300px;
+}
